@@ -1,0 +1,495 @@
+{
+  "India": [
+    "Got independence in 1947",
+    "Capital is New Delhi",
+    "Home to the Taj Mahal"
+  ],
+  "United States": [
+    "Founded in 1776",
+    "Capital is Washington, D.C.",
+    "Has 50 states"
+  ],
+  "China": [
+    "Most populous country",
+    "Capital is Beijing",
+    "Invented paper and gunpowder"
+  ],
+  "Japan": [
+    "Capital is Tokyo",
+    "Famous for sushi and technology",
+    "Uses yen as currency"
+  ],
+  "Germany": [
+    "Capital is Berlin",
+    "Known for engineering and Oktoberfest",
+    "Was reunified in 1990"
+  ],
+  "France": [
+    "Capital is Paris",
+    "Known for the Eiffel Tower",
+    "Official language is French"
+  ],
+  "United Kingdom": [
+    "Made up of England, Scotland, Wales, and Northern Ireland",
+    "Capital is London",
+    "Has a constitutional monarchy"
+  ],
+  "Italy": [
+    "Capital is Rome",
+    "Home to the Vatican City",
+    "Famous for pasta and pizza"
+  ],
+  "Brazil": [
+    "Largest country in South America",
+    "Capital is Brasília",
+    "Speaks Portuguese"
+  ],
+  "Canada": [
+    "Capital is Ottawa",
+    "Second largest country by area",
+    "Has 10 provinces and 3 territories"
+  ],
+  "Australia": [
+    "Capital is Canberra",
+    "Home to the Great Barrier Reef",
+    "Has unique wildlife like kangaroos"
+  ],
+  "Russia": [
+    "Largest country by area",
+    "Capital is Moscow",
+    "Transcontinental between Europe and Asia"
+  ],
+  "Mexico": [
+    "Capital is Mexico City",
+    "Known for Aztec and Mayan heritage",
+    "Official language is Spanish"
+  ],
+  "South Africa": [
+    "Has three capitals: Pretoria, Cape Town, Bloemfontein",
+    "Hosted 2010 FIFA World Cup",
+    "Known for Nelson Mandela"
+  ],
+  "Egypt": [
+    "Capital is Cairo",
+    "Home to the Pyramids of Giza",
+    "River Nile flows through it"
+  ],
+  "Spain": [
+    "Capital is Madrid",
+    "Famous for flamenco and paella",
+    "Official language is Spanish"
+  ],
+  "Argentina": [
+    "Capital is Buenos Aires",
+    "Known for tango and beef",
+    "Has Patagonia region"
+  ],
+  "Saudi Arabia": [
+    "Capital is Riyadh",
+    "Contains Mecca and Medina",
+    "Rich in oil resources"
+  ],
+  "Turkey": [
+    "Capital is Ankara",
+    "Istanbul spans two continents",
+    "Former center of Ottoman Empire"
+  ],
+  "Indonesia": [
+    "Capital is Jakarta",
+    "World’s largest archipelago",
+    "Has over 17,000 islands"
+  ],
+  "Pakistan": [
+    "Capital is Islamabad",
+    "Gained independence in 1947",
+    "Official language is Urdu"
+  ],
+  "Bangladesh": [
+    "Capital is Dhaka",
+    "Has world’s largest river delta",
+    "Major garment exporter"
+  ],
+  "Nigeria": [
+    "Capital is Abuja",
+    "Most populous country in Africa",
+    "Has over 500 ethnic groups"
+  ],
+  "Kenya": [
+    "Capital is Nairobi",
+    "Known for safaris and wildlife",
+    "Official languages are English and Swahili"
+  ],
+  "Ethiopia": [
+    "Capital is Addis Ababa",
+    "Never colonized",
+    "Source of the Blue Nile"
+  ],
+  "Thailand": [
+    "Capital is Bangkok",
+    "Formerly called Siam",
+    "Famous for beaches and temples"
+  ],
+  "Vietnam": [
+    "Capital is Hanoi",
+    "Unified in 1975",
+    "Famous for pho and Halong Bay"
+  ],
+  "Philippines": [
+    "Capital is Manila",
+    "Comprises over 7,000 islands",
+    "Official languages are Filipino and English"
+  ],
+  "South Korea": [
+    "Capital is Seoul",
+    "Home to Samsung and K-pop",
+    "Separated from North Korea at the DMZ"
+  ],
+  "North Korea": [
+    "Capital is Pyongyang",
+    "Ruled by Kim family",
+    "Officially the DPRK"
+  ],
+  "Iran": [
+    "Capital is Tehran",
+    "Ancient Persia",
+    "Official language is Persian (Farsi)"
+  ],
+  "Iraq": [
+    "Capital is Baghdad",
+    "Cradle of Mesopotamian civilization",
+    "Oil-rich country"
+  ],
+  "Israel": [
+    "Capital is Jerusalem",
+    "Founded in 1948",
+    "Home to major religious sites"
+  ],
+  "Greece": [
+    "Capital is Athens",
+    "Birthplace of democracy",
+    "Has many islands"
+  ],
+  "Sweden": [
+    "Capital is Stockholm",
+    "Known for IKEA and ABBA",
+    "Part of Scandinavia"
+  ],
+  "Norway": ["Capital is Oslo", "Famous for fjords", "Uses Norwegian krone"],
+  "Finland": [
+    "Capital is Helsinki",
+    "Has thousands of lakes",
+    "Known for high education standards"
+  ],
+  "Denmark": [
+    "Capital is Copenhagen",
+    "Home of LEGO",
+    "Constitutional monarchy"
+  ],
+  "Poland": [
+    "Capital is Warsaw",
+    "Joined EU in 2004",
+    "Was invaded at the start of WWII"
+  ],
+  "Netherlands": [
+    "Capital is Amsterdam",
+    "Known for canals and windmills",
+    "Official language is Dutch"
+  ],
+  "Belgium": [
+    "Capital is Brussels",
+    "Hosts EU and NATO headquarters",
+    "Famous for chocolate and waffles"
+  ],
+  "Switzerland": [
+    "Capital is Bern",
+    "Known for neutrality",
+    "Famous for watches and chocolate"
+  ],
+  "Austria": [
+    "Capital is Vienna",
+    "Birthplace of Mozart",
+    "Located in Central Europe"
+  ],
+  "Portugal": [
+    "Capital is Lisbon",
+    "Former global maritime power",
+    "Official language is Portuguese"
+  ],
+  "Ireland": [
+    "Capital is Dublin",
+    "Known for lush green landscape",
+    "Celebrates St. Patrick’s Day"
+  ],
+  "New Zealand": [
+    "Capital is Wellington",
+    "Known for Maori culture and Lord of the Rings",
+    "Two main islands"
+  ],
+  "Chile": [
+    "Capital is Santiago",
+    "Long, narrow country along Andes",
+    "Produces copper and wine"
+  ],
+  "Peru": [
+    "Capital is Lima",
+    "Home to Machu Picchu",
+    "Ancient Inca civilization"
+  ],
+  "Colombia": [
+    "Capital is Bogotá",
+    "Known for coffee and emeralds",
+    "Borders both Pacific and Atlantic oceans"
+  ],
+  "Venezuela": [
+    "Capital is Caracas",
+    "Has Angel Falls",
+    "Rich in oil resources"
+  ],
+  "Cuba": [
+    "Capital is Havana",
+    "Communist government",
+    "Known for cigars and classic cars"
+  ],
+  "Panama": [
+    "Capital is Panama City",
+    "Famous for the Panama Canal",
+    "Connects North and South America"
+  ],
+  "Costa Rica": [
+    "Capital is San José",
+    "No standing army",
+    "High biodiversity"
+  ],
+  "Morocco": [
+    "Capital is Rabat",
+    "Located in North Africa",
+    "Known for Marrakesh and Sahara Desert"
+  ],
+  "Algeria": [
+    "Capital is Algiers",
+    "Largest country in Africa",
+    "Arabic and Berber are official languages"
+  ],
+  "Tunisia": [
+    "Capital is Tunis",
+    "Site of ancient Carthage",
+    "Sparked the Arab Spring in 2011"
+  ],
+  "Sudan": [
+    "Capital is Khartoum",
+    "Split into Sudan and South Sudan in 2011",
+    "Nile River flows through"
+  ],
+  "South Sudan": [
+    "Capital is Juba",
+    "World’s youngest nation (2011)",
+    "Rich in oil"
+  ],
+  "Ghana": [
+    "Capital is Accra",
+    "First sub-Saharan African country to gain independence (1957)",
+    "Major cocoa producer"
+  ],
+  "Ivory Coast": [
+    "Capital is Yamoussoukro",
+    "Economic capital is Abidjan",
+    "Major cocoa exporter"
+  ],
+  "Cameroon": [
+    "Capital is Yaoundé",
+    "Official languages are English and French",
+    "Has varied geography"
+  ],
+  "Uganda": [
+    "Capital is Kampala",
+    "Known as the Pearl of Africa",
+    "Source of the White Nile"
+  ],
+  "Tanzania": [
+    "Capital is Dodoma",
+    "Home to Mount Kilimanjaro",
+    "Hosts Serengeti National Park"
+  ],
+  "Zimbabwe": [
+    "Capital is Harare",
+    "Famous for Victoria Falls",
+    "Formerly called Rhodesia"
+  ],
+  "Zambia": [
+    "Capital is Lusaka",
+    "Shares Victoria Falls with Zimbabwe",
+    "Landlocked African country"
+  ],
+  "Angola": [
+    "Capital is Luanda",
+    "Major oil producer",
+    "Official language is Portuguese"
+  ],
+  "Namibia": [
+    "Capital is Windhoek",
+    "Known for Namib Desert",
+    "Gained independence in 1990"
+  ],
+  "Botswana": [
+    "Capital is Gaborone",
+    "Stable democracy",
+    "Home to Okavango Delta"
+  ],
+  "Madagascar": [
+    "Capital is Antananarivo",
+    "World’s fourth-largest island",
+    "Unique wildlife like lemurs"
+  ],
+  "Nepal": [
+    "Capital is Kathmandu",
+    "Home to Mount Everest",
+    "Official language is Nepali"
+  ],
+  "Sri Lanka": [
+    "Capital is Sri Jayawardenepura Kotte",
+    "Produces tea and gems",
+    "Island nation south of India"
+  ],
+  "Myanmar": [
+    "Capital is Naypyidaw",
+    "Formerly called Burma",
+    "Known for Bagan temples"
+  ],
+  "Laos": [
+    "Capital is Vientiane",
+    "Landlocked in Southeast Asia",
+    "Official language is Lao"
+  ],
+  "Cambodia": [
+    "Capital is Phnom Penh",
+    "Home to Angkor Wat",
+    "Khmer is official language"
+  ],
+  "Malaysia": [
+    "Capital is Kuala Lumpur",
+    "Split between Peninsula and Borneo",
+    "Famous for Petronas Towers"
+  ],
+  "Singapore": [
+    "City-state in Southeast Asia",
+    "Gained independence in 1965",
+    "Global financial hub"
+  ],
+  "Qatar": [
+    "Capital is Doha",
+    "Hosted FIFA World Cup 2022",
+    "Rich in natural gas"
+  ],
+  "United Arab Emirates": [
+    "Capital is Abu Dhabi",
+    "Dubai is its largest city",
+    "Formed in 1971"
+  ],
+  "Kuwait": [
+    "Capital is Kuwait City",
+    "Rich in oil",
+    "Invaded by Iraq in 1990"
+  ],
+  "Oman": [
+    "Capital is Muscat",
+    "Located on Arabian Peninsula",
+    "Known for frankincense"
+  ],
+  "Jordan": ["Capital is Amman", "Home to Petra", "Borders Dead Sea"],
+  "Lebanon": [
+    "Capital is Beirut",
+    "Known for cedar trees",
+    "Has rich history and cuisine"
+  ],
+  "Cyprus": [
+    "Capital is Nicosia",
+    "Divided between Greek and Turkish sides",
+    "Member of EU"
+  ],
+  "Czech Republic": [
+    "Capital is Prague",
+    "Central European country",
+    "Also known as Czechia"
+  ],
+  "Slovakia": [
+    "Capital is Bratislava",
+    "Split peacefully from Czech Republic in 1993",
+    "Uses euro currency"
+  ],
+  "Hungary": [
+    "Capital is Budapest",
+    "Language is Hungarian (Magyar)",
+    "Member of EU"
+  ],
+  "Romania": [
+    "Capital is Bucharest",
+    "Home to Transylvania",
+    "Borders the Black Sea"
+  ],
+  "Bulgaria": [
+    "Capital is Sofia",
+    "Located in the Balkans",
+    "Uses Cyrillic alphabet"
+  ],
+  "Croatia": [
+    "Capital is Zagreb",
+    "Known for Adriatic coastline",
+    "Joined EU in 2013"
+  ],
+  "Serbia": [
+    "Capital is Belgrade",
+    "Landlocked Balkan country",
+    "Former part of Yugoslavia"
+  ],
+  "Slovenia": [
+    "Capital is Ljubljana",
+    "Part of former Yugoslavia",
+    "Known for lakes and mountains"
+  ],
+  "Estonia": [
+    "Capital is Tallinn",
+    "Highly digital society",
+    "Part of the Baltic states"
+  ],
+  "Latvia": [
+    "Capital is Riga",
+    "On the Baltic Sea",
+    "Gained independence from USSR in 1991"
+  ],
+  "Lithuania": ["Capital is Vilnius", "Baltic nation", "Member of EU and NATO"],
+  "Iceland": [
+    "Capital is Reykjavik",
+    "Located in North Atlantic",
+    "Powered by geothermal energy"
+  ],
+  "Malta": [
+    "Capital is Valletta",
+    "Small island nation in Mediterranean",
+    "Member of EU"
+  ],
+  "Luxembourg": [
+    "Capital is Luxembourg City",
+    "One of world’s richest countries",
+    "Trilingual nation"
+  ],
+  "Monaco": [
+    "Capital is Monaco",
+    "Tiny city-state on French Riviera",
+    "Known for casino and Formula 1 race"
+  ],
+  "Liechtenstein": [
+    "Capital is Vaduz",
+    "Between Switzerland and Austria",
+    "One of the smallest countries"
+  ],
+  "Andorra": [
+    "Capital is Andorra la Vella",
+    "Located in Pyrenees",
+    "Between France and Spain"
+  ],
+  "San Marino": [
+    "Capital is San Marino",
+    "One of world’s oldest republics",
+    "Enclaved within Italy"
+  ]
+}
